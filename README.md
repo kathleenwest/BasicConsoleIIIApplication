@@ -1,5 +1,7 @@
 # BasicConsoleIIIApplication
 
+Project Blog Article: https://portfolio.katiegirl.net/2018/08/27/basic-console-application-iii/
+
 Basic Console Application 
 My Student Project: C# Programming I
 
